@@ -1,0 +1,18 @@
+
+body{
+    color: white;
+    background-color: rgb(8, 37, 53);
+}
+
+.card{
+    color: black;
+}
+
+
+#classes ul li{
+    
+    padding:1.5%;
+    display: inline-block;
+    text-decoration: none;
+    
+}

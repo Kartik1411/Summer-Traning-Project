@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ABOUT US | PDF BOOKS</title>
+
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    
+    
+    <link rel="stylesheet" href="./css/aboutus.css">
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+        
+        <a class="navbar-brand" href="index.php">PDF BOOKS</a>
+        
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item ">
+                    <a class="nav-link" href="index.php">Home</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="books.php">Books</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="papers.php">Previous Papers</a>
+                </li>
+
+                <li class="nav-item active">
+                    <a class="nav-link" href="aboutus.php">About Us <span class="sr-only">(current)</span></a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="contactus.php">Contact Us</a>
+                </li>
+            
+            </ul>
+
+            
+            <form class="form-inline my-2 my-lg-0">
+                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                
+                <button class="btn btn-outline-info my-2 my-sm-0" type="submit">Search</button>
+            </form>
+        </div>
+    </nav>
+
+    <section class="my-2 py-5 mx-3">
+        <h1 class="my-3">About Us</h1>
+        <p class="my-4 py-5 text-justify">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis natus similique dolor quis iure saepe ab sunt quas exercitationem? Ducimus totam veniam iste
+            est at molestias! Ipsum assumenda, suscipit vitae alias quos nihil ipsa adipisci molestiae illo ullam reiciendis dolorem eum neque aliquid, voluptas architecto modi 
+            hic ad pariatur! Obcaecati iusto sed minus nesciunt veniam ad architecto unde iste reiciendis incidunt sapiente vitae sit exercitationem voluptates rerum corrupti officiis
+            dolore eaque aut, ex accusantium a placeat ducimus voluptate. Accusamus hic libero reiciendis mollitia corrupti expedita aspernatur maiores perspiciatis ipsam at repellendus
+            cum delectus eligendi eos, odio numquam deleniti omnis vitae id quae nihil! Dicta nisi voluptate commodi ipsam aliquam facilis officiis? Omnis repellat quam suscipit ut iusto.
+            Hic nobis, cum debitis earum nostrum
+            deserunt vero minima quaerat explicabo cupiditate reiciendis sequi expedita ratione magnam. Possimus corporis ipsum illo magni at quasi incidunt officia maiores sequi neque 
+            praesentium eum obcaecati, perferendis nihil aspernatur itaque rerum aut vero recusandae totam! Consectetur minus deleniti unde, necessitatibus itaque sapiente repellat rem totam maiores, perferendis officia qui ullam repudiandae illo quos officiis quam molestiae tenetur ad quidem voluptas doloremque at. Minus nam labore dolorum sequi possimus! Ipsam repellat dignissimos minus, distinctio natus voluptas voluptatum, sit modi illo animi sunt quasi, impedit ratione est provident laudantium necessitatibus? Aspernatur eius nostrum debitis magni possimus tenetur sapiente! Ex, enim beatae harum, ipsam quos repellendus laborum dolorum debitis obcaecati praesentium voluptatem culpa, maiores ipsa dolorem reiciendis! Excepturi saepe at error quam? Suscipit nobis nisi temporibus! Voluptatibus dolorum nisi cumque odit quasi, id molestias laudantium architecto. Quos distinctio exercitationem eveniet beatae dicta molestiae, et incidunt quae optio similique odio unde facilis magni dolore, asperiores, tempora accusantium. Nam vel reprehenderit numquam obcaecati cumque vero eius culpa quae corporis? Magni et ipsam deserunt nulla facere veniam totam asperiores ex enim omnis ea assumenda, aut, velit perferendis id numquam quis quos culpa eligendi autem! Suscipit mollitia ex ratione officia illum? Accusantium debitis qui corrupti dolore nam impedit repellendus odit beatae, animi unde accusamus magnam delectus vel ipsa eius et harum praesentium nisi. Accusamus exercitationem modi voluptates numquam unde! Voluptas numquam modi eveniet odit reprehenderit earum, architecto veritatis, exercitationem, hic pariatur tenetur. Reiciendis, natus. Quibusdam nobis alias praesentium recusandae veniam aut cumque, delectus nemo veritatis unde corporis voluptas labore consectetur dolor temporibus? Ad sapiente doloribus corrupti laborum, 
+            necessitatibus odit laboriosam quasi nemo molestias eos reprehenderit? Culpa inventore veniam enim assumenda voluptates quisquam est dolore.
+        </p>
+    </section>
+    
+    <footer>
+        <p class="p-3 bg-dark text-white text-center"> © PDF BOOKS | 2020 </p>
+    </footer>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
